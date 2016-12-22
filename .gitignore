@@ -1,5 +1,6 @@
 /vendor
-/resources/docs
+/resources/docs/master/*.md
+/resources/docs/5.3/*.md
 /public/api
 /public/assets/css
 /public/assets/js/*
